@@ -2,7 +2,7 @@
 
 A thrilling underwater adventure game where you control Sharkie, a brave shark on a quest to collect treasures and defeat enemies in the deep ocean!
 
-[https://sharkie.david-hckh.com](https://sharkie.david-hckh.com)
+https://anujrj05.github.io/Sharkie_Game/
 
 ## Gameplay
 
